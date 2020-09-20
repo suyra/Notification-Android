@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="basic_notification">Send Notification</string>
+    <string name="notification_channel_id">channelID</string>
+    <string name="notification_channel_name">channelName</string>
+    <string name="notification_channel_id2">channelID2</string>
+    <string name="notification_channel_name2">channelName2</string>
+    <string name="cancel_notification">Cancel Notification</string>
+    <string name="watch_now">Watch Now</string>
+</resources>
